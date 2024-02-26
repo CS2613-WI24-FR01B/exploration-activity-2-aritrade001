@@ -165,6 +165,4 @@ If you can answer a community question:
 - Include examples or links to more information if possible.
 
 ## Contributing
-Your contributions to improving this Q&A are welcome! Make sure to follow our contribution guidelines.
-This project was a result of extensive research over the internet and youtube. I faced significant challenges in the last minute
-to manage my certificate credentials in order to access the inner functional html calls. The best solution is to update your configurations internally in the terminal for the certificate. Do NOT edit your code as bypassing the control structures can lead to serious security implications.
+Your contributions to improving this Q&A are welcome! Make sure to follow our contribution guidelines. This project was a result of extensive research over the internet and youtube. One could face issues if he/she wants to trace back to the historical data, and therefore needs to keep data registers handy to note down results of interest.
