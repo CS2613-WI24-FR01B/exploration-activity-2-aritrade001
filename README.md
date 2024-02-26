@@ -64,7 +64,7 @@ This document provides an overview of my Exploration Activity 2 for CS2613. This
 
 - Calculators like the basic prototype here can serve multiple purposes, catering to different needs ranging from small scale restaurants to specialized requirements for activities such as agriculture business, school's courses, and athletic measurements. Our new friend chatGPT also relies heavily on automated calculators to solve even basic equations.
 - It also serves a starting point for business owners to match their financial data sheets at the end of the day.
-- Calculation is basic but an important building block to make decisions in  our dy to day life.
+- Calculation is basic but an important building block to make decisions in  our day to day life.
 
 </p>
 </details>
